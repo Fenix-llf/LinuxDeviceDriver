@@ -1,5 +1,4 @@
 # LinuxDeviceDriver  
-My personal Linux device driver  
 If you violate your legal rights, please contact me on leelinfae@163.com.  
 THANK YOU!  
 .  
